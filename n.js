@@ -1,9 +1,14 @@
-let a = {
-  1:3,
-  2:3
-}
-a[2] = 4;
-console.log(a);
+
+
+// let a = "101"
+// console.log(Number.parseInt(a,2));
+
+// let a = {
+//   1:3,
+//   2:3
+// }
+// a[2] = 4;
+// console.log(a);
 
 
 
