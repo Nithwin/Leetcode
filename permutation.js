@@ -10,5 +10,5 @@ const permute = (str) =>{
   return p;
 }
 
-console.log(permute(['a','b','c']));
+console.log(permute(['3','2','1']));
 
