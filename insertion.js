@@ -8,8 +8,6 @@ for(let i = 1;i<a.length;i++){
     j--
   }
   a[j+1] = tmp;
-  console.log(a);
-
 }
 
 
