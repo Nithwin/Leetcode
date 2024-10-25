@@ -12,7 +12,7 @@ function reverse(n){
 }
 
 function isPalindrome(k){
-  return  reverse(k)=== k;
+  return  reverse(k) === k;
 }
 
 
@@ -29,7 +29,7 @@ function asd(k){
 
 console.log(asd(1));
 
-//console.log(Math.sqrt(a));
+
 
 
 console.log(reverse(5432));
