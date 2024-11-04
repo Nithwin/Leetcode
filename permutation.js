@@ -5,6 +5,7 @@ const permute = (str) =>{
   const p = [];
   for(let i = 0;i<str.length;i++){
     const re = str.slice(0,i).concat(str.slice(i+1));
+    console.log(re);
     permute(re).forEach((perm) => p.push([str[i],...perm]));
   }
   return p;
